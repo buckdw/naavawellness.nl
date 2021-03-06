@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>DestinationEmailAddress</key>
+				<string>afspraak@naavawellness.nl</string>
+				<key>Fields</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Uw naam:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Uw email:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>Choices</key>
+						<array>
+							<string>Olie/Thaise massage 45 min - E 45</string>
+							<string>Olie/Thaise massage 60 min - E 55</string>
+							<string>Olie/Thaise massage 90 min - E 80</string>
+							<string>Olie/Thaise massage 120 min - E 100</string>
+							<string>----</string>
+							<string>Hoofdmassage 30 min - E 30</string>
+							<string>Voetmassage 30 min - E 30</string>
+							<string>---</string>
+							<string>Afspraak annuleren</string>
+						</array>
+						<key>Label</key>
+						<string>Soort massage:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>Choices</key>
+						<array>
+							<string>in de ochtend</string>
+							<string>11:00</string>
+							<string>11:30</string>
+							<string>in de middag</string>
+							<string>12:00</string>
+							<string>12:30</string>
+							<string>13:00</string>
+							<string>13:30</string>
+							<string>14:00</string>
+							<string>14:30</string>
+							<string>15:00</string>
+							<string>15:30</string>
+							<string>16:00</string>
+							<string>16:30</string>
+							<string>17:00</string>
+							<string>17:30</string>
+							<string>in de avond</string>
+							<string>18:00</string>
+							<string>18:30</string>
+							<string>19:00</string>
+						</array>
+						<key>Label</key>
+						<string>Tijdstip:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>3</integer>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Telefoon:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Afspraak:</string>
+						<key>Required</key>
+						<true/>
+						<key>Type</key>
+						<integer>1</integer>
+					</dict>
+				</array>
+				<key>FromAddressMode</key>
+				<integer>1</integer>
+				<key>FromEmailFieldIndex</key>
+				<integer>1</integer>
+				<key>FromNameFieldIndex</key>
+				<integer>0</integer>
+				<key>RequiredFieldIndicatorText</key>
+				<string>*</string>
+				<key>RequiredMessageText</key>
+				<string>Fields marked with * are required.</string>
+				<key>ResetButtonText</key>
+				<string>Reset</string>
+				<key>SubjectFieldIndex</key>
+				<integer>2</integer>
+				<key>SubmitButtonText</key>
+				<string>Verzenden</string>
+				<key>defineEmailAddressInPHPSettings</key>
+				<false/>
+				<key>showResetButtonInForm</key>
+				<true/>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>FeedbackMessage.as</string>
+				<string>Footer.as</string>
+				<string>Header.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Contact Form Data</string>
+</dict>
+</plist>
