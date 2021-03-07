@@ -82,6 +82,18 @@
 						<key>Name</key>
 						<string>author</string>
 					</dict>
+					<dict>
+						<key>Content</key>
+						<string>Amsterdam</string>
+						<key>Name</key>
+						<string>geo.placename</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>NL-NH</string>
+						<key>Name</key>
+						<string>geo.region</string>
+					</dict>
 				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
