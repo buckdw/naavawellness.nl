@@ -10,7 +10,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Huisregels</string>
+				<string>Huisregels Naava Wellness</string>
 				<key>CreatedDate</key>
 				<date>2021-01-05T22:21:02Z</date>
 				<key>ID</key>
@@ -35,7 +35,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-08T16:30:41Z</date>
+						<date>2021-03-09T19:45:18Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -74,11 +74,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								s0ueM6aE2zw9
-								NPnFfL26Yw==
+								E0WDIpCaLMD6
+								o1V7PHtB3Q==
 								</data>
 								<key>Size</key>
-								<integer>9973</integer>
+								<integer>9967</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
