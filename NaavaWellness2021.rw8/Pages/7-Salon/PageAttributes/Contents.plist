@@ -45,7 +45,16 @@
 				<key>IndexFilename</key>
 				<string>index.html</string>
 				<key>MetaDescription</key>
-				<string>Impressies van onze nieuwe massage salon</string>
+				<string>Impressies van onze nieuwe massage salon. Er is betaalde parkeergelegenheid naast onze salon.</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>Palestra, Amsterdam, Nieuw-West</string>
+						<key>Name</key>
+						<string>keywords</string>
+					</dict>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>PluginExtension</key>
