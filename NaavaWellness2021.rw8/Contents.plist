@@ -16,7 +16,7 @@
 					<key>page0 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:57:13Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -65,11 +65,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								1OibxXiQuIci
-								2WGA4VGeZg==
+								P2qUwWlgG5lS
+								gx4brTZ1tA==
 								</data>
 								<key>Size</key>
-								<integer>14046</integer>
+								<integer>14051</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -82,7 +82,7 @@
 					<key>page1 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -101,11 +101,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qLCXPKIaLri1
-								d6k8clsrmA==
+								6FSlGSl48Y6s
+								1h6x1iSuoQ==
 								</data>
 								<key>Size</key>
-								<integer>12847</integer>
+								<integer>12852</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -118,7 +118,7 @@
 					<key>page2 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -177,11 +177,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								zGX+GlXVVQ9O
-								xj0d4sr9IA==
+								LYpScAmM/Fyx
+								mYuOuYt+nQ==
 								</data>
 								<key>Size</key>
-								<integer>12622</integer>
+								<integer>12627</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -194,7 +194,7 @@
 					<key>page3 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:57:13Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -263,11 +263,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								yIUFtqpP4jdB
-								XGrtX1hKdQ==
+								ig4FnLhLSKDm
+								5RQUDtWiZA==
 								</data>
 								<key>Size</key>
-								<integer>14186</integer>
+								<integer>14191</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -280,7 +280,7 @@
 					<key>page4 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -319,11 +319,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								NRG7/LRI1e0G
-								pu0O97YIpw==
+								3xAN/cNL3Yiv
+								OMLYVthu3Q==
 								</data>
 								<key>Size</key>
-								<integer>8896</integer>
+								<integer>8901</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -336,7 +336,7 @@
 					<key>page5 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -385,11 +385,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								iU73qn+nNj/z
-								+zOPlOdo7Q==
+								kdWps4EggAP9
+								sxuwFZkYkQ==
 								</data>
 								<key>Size</key>
-								<integer>9947</integer>
+								<integer>9952</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -402,7 +402,7 @@
 					<key>page6 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -441,11 +441,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								O4xhDMDxKq7b
-								9maIyODG0A==
+								dAr6593GoT3i
+								QZ6do19q5Q==
 								</data>
 								<key>Size</key>
-								<integer>7712</integer>
+								<integer>7717</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -458,7 +458,7 @@
 					<key>page7 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T23:07:04Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -497,11 +497,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								xstQaUfG92ve
-								oW1GMaE+Tg==
+								MrJJW5eVZdRt
+								GrjQ+kEKKQ==
 								</data>
 								<key>Size</key>
-								<integer>12033</integer>
+								<integer>12038</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -514,7 +514,7 @@
 					<key>page8 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -553,11 +553,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qt0UiEA7N1R2
-								WHlwDXUing==
+								3R2lTWSF2GzA
+								hlY781+oDg==
 								</data>
 								<key>Size</key>
-								<integer>7770</integer>
+								<integer>7775</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -570,7 +570,7 @@
 					<key>page9 - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:42:24Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -609,11 +609,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								om28j0yke8Bf
-								tc1wQ94f1w==
+								33QeXVgm3osU
+								cRmgKf/9lg==
 								</data>
 								<key>Size</key>
-								<integer>8324</integer>
+								<integer>8329</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -626,7 +626,7 @@
 					<key>rw:document:extrafiles - ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T22:30:49Z</date>
+						<date>2021-03-17T23:15:05Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -685,11 +685,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								JK0us+AFHn1H
-								n6qcLZbNEA==
+								AZ1bREEAufkr
+								8HN8+PKzLg==
 								</data>
 								<key>Size</key>
-								<integer>1141</integer>
+								<integer>1151</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -1168,7 +1168,7 @@
 				DYAMXxAkNEY3QzZCQzktNzc4OS00MUY4LUExOTQtOUJC
 				RkU3NjgyN0QzXxAUYm9lZGRoYUFydEJhbm5lci5qcGdf
 				ECQ2RkI1QTVCQi1DOUI4LTQyOTctQkVDRi0xQTAzRUQ5
-				ODZDRkbSAFUADwBWAFdXTlMudGltZSNBwwFhjTpWR4AO
+				ODZDRkbSAFUADwBWAFdXTlMudGltZSNBwwFifX7ouIAO
 				0gAmACcAWQBaVk5TRGF0ZaIAWQAr0wANAA4ADwBcAGAA
 				ZKMAXQBeAF+AEIARgBKjAGEAYQBhgBOAE4ATgBRfECRm
 				aWxlOi8vL0xpYnJhcnkvV2ViU2VydmVyL0RvY3VtZW50
@@ -1184,8 +1184,8 @@
 				ewB8CIAggBaAAIAAgByAGYAYgBuAGl8QJDFEOEYyMURD
 				LTdBN0YtNEY0MC05REY1LTExRkJEMjVGM0Y4MV5ob21l
 				QmFubmVyLnBuZ18QJEVFMjI5ODE2LUMyNUYtNERENC1C
-				RkExLTdEQjFERUU5NzM1RtIAVQAPAIEAVyNBwwFhjTpW
-				94AO0wANAA4ADwCEAIgAZKMAhQCGAIeAHYAegB+jAGEA
+				RkExLTdEQjFERUU5NzM1RtIAVQAPAIEAVyNBwwFifX7p
+				gYAO0wANAA4ADwCEAIgAZKMAhQCGAIeAHYAegB+jAGEA
 				YQBhgBOAE4ATgBRfECRmaWxlOi8vL0xpYnJhcnkvV2Vi
 				U2VydmVyL0RvY3VtZW50cy9fEBlmdHA6L2Z0cC5uYWF2
 				YXdlbGxuZXNzLm5sXxAiZnRwOi9mdHAubmFhdmF3ZWxs
@@ -1197,7 +1197,7 @@
 				JF8QJDc0ODdCOUU4LTMyNEMtNEQ3OS1CNkMwLUVEN0RC
 				MEVDRTBERV8QGDNkLXdhbGxwYXBlci01MDB4NTAwLmpw
 				Z18QJDlFNkUyODYyLUM3RTEtNDI1Ri04MzU0LUI1RTcx
-				NjlGNjdBQtIAVQAPAKAAVyNBwwFhjTpXKoAO0wANAA4A
+				NjlGNjdBQtIAVQAPAKAAVyNBwwFifX7ptIAO0wANAA4A
 				DwCjAKcAZKMApAClAKaAJ4AogCmjAGEAYQBhgBOAE4AT
 				gBRfECRmaWxlOi8vL0xpYnJhcnkvV2ViU2VydmVyL0Rv
 				Y3VtZW50cy9fEBlmdHA6L2Z0cC5uYWF2YXdlbGxuZXNz
@@ -1208,8 +1208,8 @@
 				twC4ALkAugiANIAWgACAAIAwgC2ALIAvgC5fECQ3RjRG
 				QkI4OC1ERjIyLTRDOEQtQjVBNy0xMzgxQzI2QTFGMDBa
 				MzQ1Mzg5LmpwZ18QJDAzRUM0MDdBLTM3OUItNDA4Qi1B
-				NENBLThDQkZDQkI4NjZDQdIAVQAPAL8AVyNBwwFhjTpX
-				VIAO0wANAA4ADwDCAMYAZKMAwwDEAMWAMYAygDOjAGEA
+				NENBLThDQkZDQkI4NjZDQdIAVQAPAL8AVyNBwwFifX7p
+				3YAO0wANAA4ADwDCAMYAZKMAwwDEAMWAMYAygDOjAGEA
 				YQBhgBOAE4ATgBRfECRmaWxlOi8vL0xpYnJhcnkvV2Vi
 				U2VydmVyL0RvY3VtZW50cy9fEBlmdHA6L2Z0cC5uYWF2
 				YXdlbGxuZXNzLm5sXxAiZnRwOi9mdHAubmFhdmF3ZWxs
@@ -1219,7 +1219,7 @@
 				ANkIgD6AFoAAgACAOoA3gDaAOYA4XxAkQUY4OURCOUMt
 				QTA1My00RjNDLUFFN0YtQTIwRDREQ0UzQTJDW2ltYWdl
 				cy5qcGVnXxAkQUY1RERGMzgtNTI5OC00MjRDLUE3MzUt
-				QTBEREIxNzJEMUQ40gBVAA8A3gBXI0HDAWGNOld1gA7T
+				QTBEREIxNzJEMUQ40gBVAA8A3gBXI0HDAWJ9fun/gA7T
 				AA0ADgAPAOEA5QBkowDiAOMA5IA7gDyAPaMAYQBhAGGA
 				E4ATgBOAFF8QJGZpbGU6Ly8vTGlicmFyeS9XZWJTZXJ2
 				ZXIvRG9jdW1lbnRzL18QGWZ0cDovZnRwLm5hYXZhd2Vs
@@ -1230,7 +1230,7 @@
 				gACAFoAAgACARIBBgECAQ4BCXxAkMEI5NTU2RkUtQjhE
 				QS00MDUxLTlFREMtRTUxMTQyMDk3RUQ1W0NvbnRhY3Qu
 				anBnXxAkODM0QjY0OEQtMUNEQi00ODQ3LUE1OEUtNDk5
-				NEZDMTc1OEE10gBVAA8A/QBXI0HDAWGNOleXgA7TAA0A
+				NEZDMTc1OEE10gBVAA8A/QBXI0HDAWJ9fuohgA7TAA0A
 				DgAPAQABAwBkogEBAQKARYBGogBhAGGAE4ATgBRfEBlm
 				dHA6L2Z0cC5uYWF2YXdlbGxuZXNzLm5sXxAiZnRwOi9m
 				dHAubmFhdmF3ZWxsbmVzcy5ubC9odHRwZG9jc9oAPwBA
@@ -1239,7 +1239,7 @@
 				LTA3M0QtNEI3RS1CMDM2LTQwMUVCN0RBOTE5Ml8QG0Rp
 				c2NsYWltZXJOYWF2YVdlbGxuZXNzLnBkZl8QJEY4OENC
 				MkQ5LTgxRkItNDVDNy1CMUVGLTJFNTI0RDRDMzU5RtIA
-				VQAPARgAVyNBwwFhjTpXuIAO0wANAA4ADwEbAR4AZKIB
+				VQAPARgAVyNBwwFifX7qS4AO0wANAA4ADwEbAR4AZKIB
 				HAEdgE2ATqIAYQBhgBOAE4AUXxAZZnRwOi9mdHAubmFh
 				dmF3ZWxsbmVzcy5ubF8QImZ0cDovZnRwLm5hYXZhd2Vs
 				bG5lc3MubmwvaHR0cGRvY3NfEFAvVXNlcnMvZGllZGVy
@@ -1250,7 +1250,7 @@
 				MTQ0RUVELTM4RTEtNEVEMC04NTMwLTMyMzRCNTYwOUJD
 				MF5zdHlsZXNoZWV0LmNzc18QJDg0NjMwMzVFLTRCMjkt
 				NEFDQS04MjkwLTVCMzJBRDVBNzYyQtIAVQAPATQAVyNB
-				wwFhjTpX2oAO0wANAA4ADwE3AToAZKIBOAE5gFaAV6IA
+				wwFifX7qbIAO0wANAA4ADwE3AToAZKIBOAE5gFaAV6IA
 				YQBhgBOAE4AUXxAZZnRwOi9mdHAubmFhdmF3ZWxsbmVz
 				cy5ubF8QImZ0cDovZnRwLm5hYXZhd2VsbG5lc3Mubmwv
 				aHR0cGRvY3NfEC0vVXNlcnMvZGllZGVyaWNrZGVidWNr
@@ -1259,7 +1259,7 @@
 				AIAWgACAAIBegFuAWoBdgFxfECQzNzFGMTAwRi02RUI4
 				LTRENkItQTFBQy1BOTM0MDEzNzY5QjFbaW1hZ2UzLmpw
 				ZWdfECQ3MUQzMTgzMS1GQzY2LTQyRTctQjlEOS1GRjUx
-				NUI1NkIwQTDSAFUADwFQAFcjQcMBYY06V/uADtMADQAO
+				NUI1NkIwQTDSAFUADwFQAFcjQcMBYn1+6o6ADtMADQAO
 				AA8BUwFWAGSiAVQBVYBfgGCiAGEAYYATgBOAFF8QGWZ0
 				cDovZnRwLm5hYXZhd2VsbG5lc3MubmxfECJmdHA6L2Z0
 				cC5uYWF2YXdlbGxuZXNzLm5sL2h0dHBkb2Nz2gA/AEAA
@@ -1267,7 +1267,7 @@
 				AWYIgACAFoAAgACAZoBjgGKAZYBkXxAkMDY2NTA1RTYt
 				MTI0RS00RURELUIwQjUtMjUyQjYwMkFEMzgyW2ltYWdl
 				Mi5qcGVnXxAkRjdEM0IyQzMtQkQyNi00MENCLTkzNUIt
-				RkE4RTQ3ODJBODQw0gBVAA8BawBXI0HDAWGNOlgdgA7T
+				RkE4RTQ3ODJBODQw0gBVAA8BawBXI0HDAWJ9fuqvgA7T
 				AA0ADgAPAW4BcQBkogFvAXCAZ4BoogBhAGGAE4ATgBRf
 				EBlmdHA6L2Z0cC5uYWF2YXdlbGxuZXNzLm5sXxAiZnRw
 				Oi9mdHAubmFhdmF3ZWxsbmVzcy5ubC9odHRwZG9jc9oA
@@ -1275,8 +1275,8 @@
 				AX8BgAGBCIAAgBaAAIAAgG6Aa4BqgG2AbF8QJEQ5Njg3
 				NkIzLTM5QjYtNDU4OC1COTVCLTFEN0YxQjg2REFDN1tp
 				bWFnZTEuanBlZ18QJDE3NEM3RkEyLTMwMUItNEE3QS1C
-				RDRELUI2MEJBNkY3MjMzRtIAVQAPAYYAVyNBwwFhjTpY
-				NoAO0wANAA4ADwGJAYwAZKIBigGLgG+AcKIAYQBhgBOA
+				RDRELUI2MEJBNkY3MjMzRtIAVQAPAYYAVyNBwwFifX7q
+				0YAO0wANAA4ADwGJAYwAZKIBigGLgG+AcKIAYQBhgBOA
 				E4AUXxAZZnRwOi9mdHAubmFhdmF3ZWxsbmVzcy5ubF8Q
 				ImZ0cDovZnRwLm5hYXZhd2VsbG5lc3MubmwvaHR0cGRv
 				Y3PaAD8AQAAPAEEAQgBDABcARABFAEYARwGUAEkASgBK
@@ -1284,7 +1284,7 @@
 				N0Q3Qzc4My04NjNGLTRBNEEtQjBGRC0xMTdGNjVFNUE2
 				OTNbaW1hZ2UyLmpwZWdfECQzRkM3NkU0Qy02NTc0LTRG
 				MjQtODNBMi0xQjZBNzRBRjc1N0TSAFUADwGhAFcjQcMB
-				YY06WFiADtMADQAOAA8BpAGnAGSiAaUBpoB3gHiiAGEA
+				Yn1+6vKADtMADQAOAA8BpAGnAGSiAaUBpoB3gHiiAGEA
 				YYATgBOAFF8QGWZ0cDovZnRwLm5hYXZhd2VsbG5lc3Mu
 				bmxfECJmdHA6L2Z0cC5uYWF2YXdlbGxuZXNzLm5sL2h0
 				dHBkb2NzXxAqL1VzZXJzL2RpZWRlcmlja2RlYnVjay9E
@@ -1293,7 +1293,7 @@
 				gACAf4B8gHuAfoB9XxAkMjc4Nzc0MkMtODExNi00Q0E3
 				LUJEQzYtOEE5ODAyNEEzNEI2XxAPaGVhZE1hc3NhZ2Uu
 				anBnXxAkQTYwOTA3MTUtQkFDMS00MUY2LTgxQzAtRjhE
-				OEFEMTRERjlC0gBVAA8BvQBXI0HDAWGNOlh5gA7TAA0A
+				OEFEMTRERjlC0gBVAA8BvQBXI0HDAWJ9fusUgA7TAA0A
 				DgAPAcABwwBkogHBAcKAgICBogBhAGGAE4ATgBRfEBlm
 				dHA6L2Z0cC5uYWF2YXdlbGxuZXNzLm5sXxAiZnRwOi9m
 				dHAubmFhdmF3ZWxsbmVzcy5ubC9odHRwZG9jc18QXi9W
@@ -1304,7 +1304,7 @@
 				1AiAi4AWgACAAICIgIWAhICHgIZfECQ5RTQ4QUZEMC1E
 				M0NCLTRFRDQtOEVENS01MDY0MUJFQzgzMEFbaW1hZ2Uw
 				LmpwZWdfECQ1RjlENzY4OS0wREFBLTRDRDEtQjNBMi04
-				RjczRTdGNjYxMEHSAFUADwHZAFcjQcMBYY06WJuADtMA
+				RjczRTdGNjYxMEHSAFUADwHZAFcjQcMBYn1+6z6ADtMA
 				DQAOAA8B3AHfAGSiAd0B3oCJgIqiAGEAYYATgBOAFF8Q
 				GWZ0cDovZnRwLm5hYXZhd2VsbG5lc3MubmxfECJmdHA6
 				L2Z0cC5uYWF2YXdlbGxuZXNzLm5sL2h0dHBkb2NzXxAq
@@ -1314,7 +1314,7 @@
 				kICPXxAkQUE5MDU0NDQtMTNFQS00NDVDLUIxM0UtOUJD
 				ODNBRDRDMzNCWGxvZ28ucG5nXxAkOTZGODYxRjctODA0
 				QS00N0NDLUFDQUEtNTU0MjNFRjY5QzlB0gBVAA8B9QBX
-				I0HDAWGNOli8gA7TAA0ADgAPAfgB+gBkoQH5gJKhAGGA
+				I0HDAWJ9futfgA7TAA0ADgAPAfgB+gBkoQH5gJKhAGGA
 				E4AUXxAiZnRwOi9mdHAubmFhdmF3ZWxsbmVzcy5ubC9o
 				dHRwZG9jc18QJy9Vc2Vycy9kaWVkZXJpY2tkZWJ1Y2sv
 				RGVza3RvcC9sb2dvLnBuZ9IAJgAnAgACAVxSV1NpdGVG
@@ -1362,7 +1362,7 @@
 					<key>BannerIdentifier</key>
 					<string>7F4FBB88-DF22-4C8D-B5A7-1381C26A1F00</string>
 					<key>BaseURL</key>
-					<string>http://naavawellness.nl/</string>
+					<string>https://naavawellness.nl/</string>
 					<key>ConsolidateCSSFiles</key>
 					<true/>
 					<key>ConsolidateCommonFilesMode</key>
@@ -1691,7 +1691,7 @@ RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]</string>
 							<key>user</key>
 							<string>naavawel</string>
 							<key>websiteAddress</key>
-							<string>http://naavawellness.nl/</string>
+							<string>https://naavawellness.nl/</string>
 						</dict>
 					</array>
 					<key>PublishingSettingsConfigured</key>
