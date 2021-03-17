@@ -22,7 +22,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>1e Keer</string>
+				<string>Eerste Keer</string>
 				<key>PluginClassName</key>
 				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
@@ -39,7 +39,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-16T13:17:53Z</date>
+						<date>2021-03-17T22:42:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -63,6 +63,16 @@
 								</data>
 								<key>Size</key>
 								<integer>28991</integer>
+							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
 							</dict>
 							<key>files/stacks_page_page2.css</key>
 							<dict>
@@ -88,11 +98,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								txFjvdDwhm7c
-								VajSKTammA==
+								zGX+GlXVVQ9O
+								xj0d4sr9IA==
 								</data>
 								<key>Size</key>
-								<integer>12601</integer>
+								<integer>12622</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

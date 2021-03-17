@@ -12,7 +12,7 @@
 				<key>BannerIdentifier</key>
 				<string>7F4FBB88-DF22-4C8D-B5A7-1381C26A1F00</string>
 				<key>BrowserTitle</key>
-				<string>Afspraak maken via e-mail</string>
+				<string>Afspraak maken - Naava Wellness</string>
 				<key>CreatedDate</key>
 				<date>2021-02-24T18:55:57Z</date>
 				<key>ID</key>
@@ -37,7 +37,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-16T13:17:53Z</date>
+						<date>2021-03-17T22:42:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -56,11 +56,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								jS8eVFGsi9/l
-								iFiU6MtL0g==
+								qLCXPKIaLri1
+								d6k8clsrmA==
 								</data>
 								<key>Size</key>
-								<integer>12754</integer>
+								<integer>12847</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

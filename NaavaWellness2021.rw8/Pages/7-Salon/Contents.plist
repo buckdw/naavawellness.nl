@@ -12,7 +12,7 @@
 				<key>BannerIdentifier</key>
 				<string>7487B9E8-324C-4D79-B6C0-ED7DB0ECE0DE</string>
 				<key>BrowserTitle</key>
-				<string>Massage salon Navaa Wellness</string>
+				<string>Massage salon - Navaa Wellness</string>
 				<key>CreatedDate</key>
 				<date>2021-02-24T20:25:47Z</date>
 				<key>ID</key>
@@ -37,11 +37,21 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-16T13:17:53Z</date>
+						<date>2021-03-17T22:42:24Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
 							<key>files/stacks_page_page4.css</key>
 							<dict>
 								<key>Digest</key>
@@ -66,11 +76,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								3zuF0Fb1fNIG
-								qt+Krea7mA==
+								NRG7/LRI1e0G
+								pu0O97YIpw==
 								</data>
 								<key>Size</key>
-								<integer>8882</integer>
+								<integer>8896</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
