@@ -44,6 +44,8 @@
 				<true/>
 				<key>CustomCopyrightUsed</key>
 				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;link rel="canonical" href="https://naavawellness.nl/firsttime/"&gt; </string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>

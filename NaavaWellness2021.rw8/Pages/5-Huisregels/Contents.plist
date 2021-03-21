@@ -35,7 +35,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T23:15:05Z</date>
+						<date>2021-03-21T08:34:13Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -84,11 +84,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								kdWps4EggAP9
-								sxuwFZkYkQ==
+								+BzDZiwTuoAU
+								qCwExMcp3Q==
 								</data>
 								<key>Size</key>
-								<integer>9952</integer>
+								<integer>10019</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

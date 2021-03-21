@@ -35,7 +35,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-03-17T23:15:05Z</date>
+						<date>2021-03-21T08:34:13Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -49,6 +49,16 @@
 								</data>
 								<key>Size</key>
 								<integer>28991</integer>
+							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
 							</dict>
 							<key>files/stacks_page_page8.css</key>
 							<dict>
@@ -74,11 +84,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								3R2lTWSF2GzA
-								hlY781+oDg==
+								K4iNq4BARRz0
+								Pbb5e+TG/Q==
 								</data>
 								<key>Size</key>
-								<integer>7775</integer>
+								<integer>7842</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

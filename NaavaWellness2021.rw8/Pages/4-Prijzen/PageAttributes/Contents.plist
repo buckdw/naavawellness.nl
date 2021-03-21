@@ -186,6 +186,8 @@
  </string>
 				<key>CustomCopyrightUsed</key>
 				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;link rel="canonical" href="https://naavawellness.nl/prices/"&gt; </string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>
