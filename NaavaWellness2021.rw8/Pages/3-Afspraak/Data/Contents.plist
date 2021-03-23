@@ -90,6 +90,14 @@
 					</dict>
 					<dict>
 						<key>Label</key>
+						<string>Voorkeur datum:</string>
+						<key>Required</key>
+						<false/>
+						<key>Type</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>Label</key>
 						<string>Afspraak:</string>
 						<key>Required</key>
 						<true/>
