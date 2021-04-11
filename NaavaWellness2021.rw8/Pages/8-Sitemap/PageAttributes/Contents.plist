@@ -13,8 +13,6 @@
 				<dict>
 					<key>default</key>
 					<true/>
-					<key>ftp:/ftp.naavawellness.nl</key>
-					<true/>
 					<key>ftp:/ftp.naavawellness.nl/httpdocs</key>
 					<false/>
 				</dict>
@@ -33,32 +31,19 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>salon</string>
+				<string>sitemap</string>
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string>index.html</string>
-				<key>MetaDescription</key>
-				<string>Impressies van onze nieuwe massage salon. Er is betaalde parkeergelegenheid naast onze salon.</string>
-				<key>MetaTags</key>
-				<array>
-					<dict>
-						<key>Content</key>
-						<string>Palestra, Amsterdam, Nieuw-West</string>
-						<key>Name</key>
-						<string>keywords</string>
-					</dict>
-				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
-				<key>PluginExtension</key>
-				<string>html</string>
 				<key>PluginHasPerformedMigrationToSharedData</key>
 				<true/>
 				<key>RobotsShouldFollowLinks</key>

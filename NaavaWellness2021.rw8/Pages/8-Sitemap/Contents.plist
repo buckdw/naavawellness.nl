@@ -10,25 +10,25 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>BrowserTitle</key>
-				<string>Wat is Thaise olie massage</string>
+				<string>Sitemap</string>
 				<key>CreatedDate</key>
-				<date>2021-02-24T22:11:18Z</date>
+				<date>2021-04-11T14:05:42Z</date>
 				<key>ID</key>
-				<string>page8</string>
+				<string>page10</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Olie massage</string>
+				<string>Sitemap</string>
 				<key>PluginClassName</key>
-				<string>YHStacksPlugin</string>
+				<string>RMSitemapPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
-					<string>YourHead Software</string>
+					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Stacks</string>
+					<string>Sitemap</string>
 					<key>Version</key>
-					<string>4.2.2</string>
+					<string>7.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
@@ -40,71 +40,32 @@
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks-image-84ede43.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								x+mxnKb+ip94
-								AiunD/Ts5Q==
-								</data>
-								<key>Size</key>
-								<integer>28991</integer>
-							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5MsOVT5d8mht
-								rfCNtCfPug==
-								</data>
-								<key>Size</key>
-								<integer>1850</integer>
-							</dict>
-							<key>files/stacks_page_page8.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								PsPaySwGgaN8
-								sxwR5dUrEA==
-								</data>
-								<key>Size</key>
-								<integer>608</integer>
-							</dict>
-							<key>files/stacks_page_page8.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
-								</data>
-								<key>Size</key>
-								<integer>17</integer>
-							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								X0hRdxK+JmqD
-								JItx5dCH1Q==
+								+9uJm4ZJe/w0
+								wREqzMrcNA==
 								</data>
 								<key>Size</key>
-								<integer>7771</integer>
+								<integer>6378</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page8</string>
+						<string>page10</string>
 						<key>SiteRoot</key>
-						<string>oilmassage</string>
+						<string>sitemap</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 				</dict>
 			</dict>
 			<key>Files</key>
-			<array/>
+			<array>
+				<string>Data.archive</string>
+			</array>
 			<key>Subsandwiches</key>
 			<array>
-				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
 		</dict>
