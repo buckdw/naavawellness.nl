@@ -123,7 +123,6 @@
 					<key>Future</key>
 					<array>
 						<string>Banner.Brightness</string>
-						<string>Color Settings.Hide Sidebar</string>
 						<string>Content Width.Pixels</string>
 						<string>Headings.Show Dividers</string>
 						<string>Navigation.Logo</string>

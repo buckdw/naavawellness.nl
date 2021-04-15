@@ -35,11 +35,21 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-11T14:27:33Z</date>
+						<date>2021-04-13T11:29:11Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/stacks-image-005aeb7.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								jYW50IQe88b8
+								wiBVIPf12g==
+								</data>
+								<key>Size</key>
+								<integer>26511</integer>
+							</dict>
 							<key>files/stacks-image-33546d7.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -50,25 +60,15 @@
 								<key>Size</key>
 								<integer>15674</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5MsOVT5d8mht
-								rfCNtCfPug==
-								</data>
-								<key>Size</key>
-								<integer>1850</integer>
-							</dict>
 							<key>files/stacks_page_page0.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								8ejCZqEh18iv
-								vraErVbIIw==
+								sBD/rc5IO4/s
+								jP6NWhcQ5A==
 								</data>
 								<key>Size</key>
-								<integer>5315</integer>
+								<integer>6327</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
@@ -84,11 +84,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								huGGJJcZ5fLa
-								bbsRlWrxVg==
+								ygRkcYVSckRc
+								tELCKJHs3Q==
 								</data>
 								<key>Size</key>
-								<integer>14047</integer>
+								<integer>15986</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

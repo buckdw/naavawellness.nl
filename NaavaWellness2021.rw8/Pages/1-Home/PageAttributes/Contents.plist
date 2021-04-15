@@ -52,7 +52,7 @@
 				<array>
 					<dict>
 						<key>Content</key>
-						<string>massage therapie, palestra sports, amsterdam, naava, thai, openingstijden, nieuwe-west, nekpijn</string>
+						<string>massage therapie, palestra sports, amsterdam, naava, thai, openingstijden, nieuw-west, nekpijn</string>
 						<key>Name</key>
 						<string>keywords</string>
 					</dict>
@@ -73,13 +73,17 @@
 				<true/>
 				<key>SidebarEnabled</key>
 				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string>Tripadvisor</string>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
 				<key>Variables</key>
 				<dict/>
 			</dict>
 			<key>Files</key>
-			<array/>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
 			<key>Subsandwiches</key>
 			<array/>
 		</dict>
