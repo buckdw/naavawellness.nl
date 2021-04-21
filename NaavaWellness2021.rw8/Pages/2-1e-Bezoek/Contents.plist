@@ -12,7 +12,7 @@
 				<key>BannerIdentifier</key>
 				<string>7487B9E8-324C-4D79-B6C0-ED7DB0ECE0DE</string>
 				<key>BrowserTitle</key>
-				<string>Eerste keer massage afspraak</string>
+				<string>Massage afspraak Naava Wellness</string>
 				<key>CreatedDate</key>
 				<date>2021-01-05T18:02:12Z</date>
 				<key>CustomThemeName</key>
@@ -39,7 +39,7 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-13T11:29:11Z</date>
+						<date>2021-04-15T06:07:25Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -88,11 +88,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								YSh01A2n2E/+
-								EvBbwamejA==
+								J0jz62CQtnXk
+								t4l622iKDA==
 								</data>
 								<key>Size</key>
-								<integer>12628</integer>
+								<integer>12637</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
