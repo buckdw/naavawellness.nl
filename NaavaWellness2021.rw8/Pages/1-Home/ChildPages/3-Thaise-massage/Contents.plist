@@ -35,11 +35,61 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-23T14:28:07Z</date>
+						<date>2021-05-09T12:26:15Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/ionicons/ionicons.eot</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								pViseLVU7voY
+								Fzd0k2apHA==
+								</data>
+								<key>Size</key>
+								<integer>112650</integer>
+							</dict>
+							<key>files/ionicons/ionicons.svg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								1lkgkTj8fCjC
+								OkhJa90ciw==
+								</data>
+								<key>Size</key>
+								<integer>312749</integer>
+							</dict>
+							<key>files/ionicons/ionicons.ttf</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								70qfKAsOQR3f
+								bJMKCjfCsA==
+								</data>
+								<key>Size</key>
+								<integer>112472</integer>
+							</dict>
+							<key>files/ionicons/ionicons.woff</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								mbhjSXFW1EeO
+								w0if77OBXA==
+								</data>
+								<key>Size</key>
+								<integer>65908</integer>
+							</dict>
+							<key>files/ionicons/ionicons.woff2</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lvHJAcCH+2QB
+								n3Zl9/ispg==
+								</data>
+								<key>Size</key>
+								<integer>50556</integer>
+							</dict>
 							<key>files/stacks-image-f53fd91.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -50,35 +100,45 @@
 								<key>Size</key>
 								<integer>47918</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5MsOVT5d8mht
+								rfCNtCfPug==
+								</data>
+								<key>Size</key>
+								<integer>1850</integer>
+							</dict>
 							<key>files/stacks_page_page9.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								6oobTYlvwJBT
-								7gS6ce8A0Q==
+								56jkrF9jstwc
+								vRQZkHZmDw==
 								</data>
 								<key>Size</key>
-								<integer>608</integer>
+								<integer>75766</integer>
 							</dict>
 							<key>files/stacks_page_page9.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
+								Bh0Qzy2XMDMb
+								30nd/ft1ow==
 								</data>
 								<key>Size</key>
-								<integer>17</integer>
+								<integer>7908</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								uGLQwFnaRAiZ
-								yWQsxSXsmQ==
+								BwelE4s5HR/l
+								p66JFqC1dA==
 								</data>
 								<key>Size</key>
-								<integer>8370</integer>
+								<integer>9321</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
