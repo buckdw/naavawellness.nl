@@ -35,11 +35,61 @@
 					<key>ftp://ftp.naavawellness.nl</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2021-04-23T14:28:07Z</date>
+						<date>2021-05-09T12:19:56Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
+							<key>files/ionicons/ionicons.eot</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								pViseLVU7voY
+								Fzd0k2apHA==
+								</data>
+								<key>Size</key>
+								<integer>112650</integer>
+							</dict>
+							<key>files/ionicons/ionicons.svg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								1lkgkTj8fCjC
+								OkhJa90ciw==
+								</data>
+								<key>Size</key>
+								<integer>312749</integer>
+							</dict>
+							<key>files/ionicons/ionicons.ttf</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								70qfKAsOQR3f
+								bJMKCjfCsA==
+								</data>
+								<key>Size</key>
+								<integer>112472</integer>
+							</dict>
+							<key>files/ionicons/ionicons.woff</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								mbhjSXFW1EeO
+								w0if77OBXA==
+								</data>
+								<key>Size</key>
+								<integer>65908</integer>
+							</dict>
+							<key>files/ionicons/ionicons.woff2</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lvHJAcCH+2QB
+								n3Zl9/ispg==
+								</data>
+								<key>Size</key>
+								<integer>50556</integer>
+							</dict>
 							<key>files/stacks-image-005aeb7.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -74,31 +124,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								sBD/rc5IO4/s
-								jP6NWhcQ5A==
+								lqoBWc7UeNXK
+								2vLjyCUlnA==
 								</data>
 								<key>Size</key>
-								<integer>6327</integer>
+								<integer>81503</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								/sVCkdFW9q/I
-								jsYQMInoDw==
+								HQpISksUfAQI
+								/G35DpDHEw==
 								</data>
 								<key>Size</key>
-								<integer>17</integer>
+								<integer>7911</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Obo/OBPBG9FV
-								0uICnw7GYw==
+								evMcXgPvRBfC
+								9IbDD2qrfA==
 								</data>
 								<key>Size</key>
-								<integer>16135</integer>
+								<integer>17079</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
